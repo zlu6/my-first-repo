@@ -2,6 +2,6 @@
 
 This is my first repo.
 
-Dope cat
+Stupid cat:
 
-![Dope cat](./cat.jpg)
+![stupid cat](./cat.jpg)
